@@ -3,6 +3,8 @@ body{
 
 }
 h1,h5{
+    margin-top:0;
+    margin-bottom:0;
     text-align: center;
     color:white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
