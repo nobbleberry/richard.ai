@@ -16,7 +16,7 @@ h1,h5{
 
 #input{
     border-radius: 10px;
-    width:39vw;
+    width:36vw;
     height:2vw; 
     
 }
@@ -29,14 +29,14 @@ h1,h5{
     align-items: center; 
     background: #777070;
     border-radius: 25px;
-    width: 40vw;
-    height: 40vw;
+    width: 37vw;
+    height: 37vw;
     overflow: hidden;
 }
 
 #art{
-    width: 40vw;
-    height: 40vw;
+    width: 37vw;
+    height: 37vw;
     
 }
 
